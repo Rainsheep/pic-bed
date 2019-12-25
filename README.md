@@ -1,2 +1,2 @@
 # pic-bed
-我的github图床
+雨羊的github图床
